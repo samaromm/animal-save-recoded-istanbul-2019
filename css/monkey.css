@@ -11,8 +11,7 @@ html {
 /* Write your solution here */
 
 @media only screen and (min-width:406px) and (max-width:1170px){
-  img{
-    position:absolute;
+  #monkey{
     bottom:300px;
     right:200px;
   }
