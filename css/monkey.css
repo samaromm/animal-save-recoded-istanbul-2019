@@ -14,5 +14,6 @@ html {
   img{
     position:absolute;
     bottom:300px;
+    right:200px;
   }
 }
